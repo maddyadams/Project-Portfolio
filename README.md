@@ -12,8 +12,8 @@ In the middle of my freshman year, my school announced that they would be making
 
 CPS Schedule is designed to be as streamlined as possible for the moments in between classes. When you open the app, it shows the class you have next in a simple, uncluttered interface. Switch to a different tab, and it shows you the classes you have on a particular day. There's even a widget for it, so you can see your schedule right from your lockscreen. 
 
-![Tutorial-1](https://previews.dropbox.com/p/thumb/AAtQdr_k6ngw9bl-OOIV-7FC7m1C0w7-bFpTnkVzcIP0nyvPzbZMbwKSzaGMqnFYclyiu7ipxVXIzZhzS8OZj6JaB5cpg6VNJGOU9NSJZ2tAhkvQPTpRY2mwLGhdNisuKQV2wxiGCpNZWYIvAxt5plDUCuacZyqODCmapz9dwbeaeIqKSQshQ9_weCBQPc4jM1rlV4iJl1p7IUrz2BA--U8aCoQp2dMG6rMgMr8BOFGEloHXfoIZqJOr3iXbL9NrhfXLf2LI7tmOX1jq1a-uHq14F_UhazqJ5wX-IBIserMMO3B7lHZ2Nwhofs4CBNB3JK8uJdZnlOQtvZpCc6fLcc-R/p.png?fv_content=true&size_mode=5)
-![Tutorial-2](https://www.dropbox.com/s/iugfl931pg4z2pu/Tutorial-2.png)
+![Tutorial-1](https://www.dropbox.com/s/39mgpouvt28nkok/Tutorial-1.png?raw=1)
+![Tutorial-2](https://www.dropbox.com/s/iugfl931pg4z2pu/Tutorial-2.png?raw=1)
 
 # AR Note Blocks
 
