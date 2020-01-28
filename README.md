@@ -4,7 +4,9 @@ When I started fencing, I looked on the App Store for an app that would keep sco
 
 Fence! is an iPhone app I wrote about two years ago which solves these problems in two ways. First, the entire screen is yellow if the timer is running, and white if the timer is stopped, allowing you to look out of the corner of your eye to see if the timer is running. Second, I added the option to use a "deadman switch"; instead of tapping to start and stop the timer, you tap and hold on the screen to start the timer, and then release to stop. The end result is an app which has a simpler and cleaner UI, as well as a better experience for the referee. 
 
+![](https://www.dropbox.com/s/bsrwbtdwfkj4gxr/Fence%20grab.png?raw=1)
 [Demo video](https://www.dropbox.com/s/xn59ih6vi39b8vy/FencingApp3.mov?raw=1)
+[View on the iOS App Store](https://apps.apple.com/us/app/fence/id1135630817)
 
 # CPS Schedule
 
@@ -14,6 +16,7 @@ CPS Schedule is designed to be as streamlined as possible for the moments in bet
 
 ![Tutorial-1](https://www.dropbox.com/s/39mgpouvt28nkok/Tutorial-1.png?raw=1)
 ![Tutorial-2](https://www.dropbox.com/s/iugfl931pg4z2pu/Tutorial-2.png?raw=1)
+[View on the iOS App Store](https://apps.apple.com/us/app/cps-schedule/id1141761843)
 
 # AR Note Blocks
 
@@ -21,4 +24,5 @@ One day, I was thinking about how there are different variations of visual art. 
 
 AR Note Blocks is an experimental musical augmented reality app. You create blocks that play different notes. The blocks are anchored in space (i.e. they don't move around). However, as you move closer to or farther away from the blocks, the notes' volumes change. 
 
+![](https://www.dropbox.com/s/1oq1452v90custu/My%20Movie%209.jpg?raw=1)
 [Demo video](https://www.dropbox.com/s/orelxr2b2o0ufzy/AR%20Note%20Blocks%20Demo.mp4?raw=1)
