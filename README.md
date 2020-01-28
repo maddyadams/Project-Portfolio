@@ -5,7 +5,7 @@ When I started fencing, I looked on the App Store for an app that would keep sco
 Fence! is an iPhone app I wrote about two years ago which solves these problems in two ways. First, the entire screen is yellow if the timer is running, and white if the timer is stopped, allowing you to look out of the corner of your eye to see if the timer is running. Second, I added the option to use a "deadman switch"; instead of tapping to start and stop the timer, you tap and hold on the screen to start the timer, and then release to stop. The end result is an app which has a simpler and cleaner UI, as well as a better experience for the referee. 
 
 ![](https://www.dropbox.com/s/bsrwbtdwfkj4gxr/Fence%20grab.png?raw=1)
-[Demo video](https://www.dropbox.com/s/xn59ih6vi39b8vy/FencingApp3.mov?raw=1)
+[Demo video](https://www.dropbox.com/s/xn59ih6vi39b8vy/FencingApp3.mov?raw=1) \
 [View on the iOS App Store](https://apps.apple.com/us/app/fence/id1135630817)
 
 # CPS Schedule
@@ -15,7 +15,7 @@ In the middle of my freshman year, my school announced that they would be making
 CPS Schedule is designed to be as streamlined as possible for the moments in between classes. When you open the app, it shows the class you have next in a simple, uncluttered interface. Switch to a different tab, and it shows you the classes you have on a particular day. There's even a widget for it, so you can see your schedule right from your lockscreen. 
 
 ![Tutorial-1](https://www.dropbox.com/s/39mgpouvt28nkok/Tutorial-1.png?raw=1)
-![Tutorial-2](https://www.dropbox.com/s/iugfl931pg4z2pu/Tutorial-2.png?raw=1)
+![Tutorial-2](https://www.dropbox.com/s/iugfl931pg4z2pu/Tutorial-2.png?raw=1) \
 [View on the iOS App Store](https://apps.apple.com/us/app/cps-schedule/id1141761843)
 
 # AR Note Blocks
