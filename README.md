@@ -1,4 +1,4 @@
-# Fence
+# Fence!
 
 When I started fencing, I looked on the App Store for an app that would keep score and time, but every app I found shared the same problem: when you tapped on the screen to start the timer, you had to look down for a second to make sure the timer was running. Even worse, you had the same problem when you went to stop the timer, drawing your eyes away from the fencers right when you should be watching them closely. 
 
